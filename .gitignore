@@ -1,0 +1,9 @@
+Folders
+output/
+data/
+
+Ghostwriter
+*.md.backup
+
+Git
+*.bak
