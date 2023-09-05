@@ -1,0 +1,12 @@
+Folders
+output/
+data/
+
+Jupyter
+.ipynb_checkpoints/
+
+Ghostwriter
+*.md.backup
+
+Notebad
+*.bak
