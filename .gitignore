@@ -2,8 +2,11 @@ Folders
 output/
 data/
 
+Jupyter
+.ipynb_checkpoints/
+
 Ghostwriter
 *.md.backup
 
-Git
+Notebad
 *.bak
