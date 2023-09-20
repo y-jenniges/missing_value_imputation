@@ -1,3 +1,6 @@
 [submodule "comfort"]
 	path = comfort
 	url = https://github.com/y-jenniges/comfort
+[submodule "GAIN"]
+	path = GAIN
+	url = https://github.com/jsyoon0823/GAIN.git
