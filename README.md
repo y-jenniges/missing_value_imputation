@@ -1,7 +1,7 @@
 # Missing value imputation
 
 Here, we present a systematic spproach to evaluate strategies to replace or impute incomplete data. 
-- Data: North Atlantic physics and biogeochemistry
+- Data: North Atlantic physics and biogeochemistry (temperature, salinity, oxygen, nitrate, silicate, phosphate)
 - Methods: Mean, KNN, MissForest, GAIN
 
 ## Execution order and short notebook description
